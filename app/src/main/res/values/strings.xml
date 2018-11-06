@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">News On Tip</string>
+    <string name="first_tab">TOP STORIES</string>
+    <string name="second_tab">INDIA</string>
+    <string name="third_tab">POLITICS</string>
+    <string name="fourth_tab">BUSINESS</string>
+    <string name="fifth_tab">SPORTS</string>
+    <string name="sixth_tab">ENTERTAINMENT</string>
+    <string name="seventh_tab">TECHNOLOGY</string>
+    <string name="eighth_tab">SCIENCE</string>
+    <string name="ninth_tab">HEALTH</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="app_id">ca-app-pub-7586410116208710~3033774959</string>
+    <string name="adunit_id_main">ca-app-pub-7586410116208710/5588867670</string>
+    <string name="adunit_id_full_description">ca-app-pub-7586410116208710/1275449075</string>
+    <string name="adunit_id_interstitial">ca-app-pub-7586410116208710/4154520599</string>
+
+
+    <string name="this_is_header">This is Header</string>
+    <string name="author">Author</string>
+    <string name="published_at">Published At</string>
+    <string name="share_news">Share News</string>
+    <string name="description">Description</string>
+    <string name="share_with_friends">Share with friends</string>
+    <string name="about">About</string>
+    <string name="rate_app">Rate App</string>
+    <string name="exit">Exit</string>
+
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "578005556499",
+    "firebase_url": "https://newsontip-899e4.firebaseio.com",
+    "project_id": "newsontip-899e4",
+    "storage_bucket": "newsontip-899e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578005556499:android:c439623db3c2af06",
+        "android_client_info": {
+          "package_name": "com.notepoint4ugmail.newsontip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578005556499-m00bvesmd0d2chmqjkbre1braldlo387.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notepoint4ugmail.newsontip",
+            "certificate_hash": "88a464b8db94b36acfc1496284c57c93f597b343"
+          }
+        },
+        {
+          "client_id": "578005556499-8omp487rcdjc3emm14pl646hs0jemr69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo3WXHtIhk2TF-TqTuXykYBhWEdoxujDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578005556499-8omp487rcdjc3emm14pl646hs0jemr69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
