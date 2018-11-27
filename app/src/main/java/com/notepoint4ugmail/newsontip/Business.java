@@ -27,6 +27,7 @@ public class Business extends Fragment {
         // Required empty public constructor
     }
 
+
     private static final String NEWS_URL = "" /*"https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=4f36ccfa5f074a3b8b56eeed0a29634d"*/;
     private RecyclerView recyclerViewBusiness;
     private RecyclerView.Adapter adapterBusiness;
