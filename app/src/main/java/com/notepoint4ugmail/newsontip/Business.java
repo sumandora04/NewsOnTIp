@@ -35,6 +35,8 @@ public class Business extends Fragment {
     private RequestQueue requestQueueBusiness;
     private SwipeRefreshLayout swipeRefreshLayoutBusiness;
 
+    //testing 3......................
+
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
